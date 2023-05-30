@@ -1,0 +1,4 @@
+dotnet ef  migrations add sdsds --context EmployeeContext  --project ..\HR.OvetimePolicies.csproj
+
+
+dotnet ef database update 

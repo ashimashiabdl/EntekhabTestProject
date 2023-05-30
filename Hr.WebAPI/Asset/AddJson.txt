@@ -1,0 +1,72 @@
+Json :
+
+{"data":"{\u0022firstname\u0022:\u0022ashkan\u0022,\u0022lastname\u0022:\u0022abdolahi\u0022,\u0022basicsalary\u0022:1200000,\u0022allowance\u0022:400000,\u0022transportation\u0022:350000,\u0022date\u0022:\u002214010801\u0022}","overtimecalculator":"calcurlatora",   "xmldata": {
+    "firstname": "string",
+    "lastname": "string",
+    "basicsalary": 0,
+    "allowance": 0,
+    "transportation": 0,
+    "calculatedsalary": 0,
+    "date": "string"
+  }}
+
+
+XML
+
+
+{"data":"<?xml version='1.0' encoding='utf-16'?><xmlData><firstName>ashkan</firstName><lastName>abdolahi</lastName><basicSalary>1200000</basicSalary><allowance>400000</allowance><transportation>350000</transportation><date>14010801</date></xmlData>","OverTimeCalculator":"CalcurlatorA"}
+
+Custom : 
+
+FirstName/LastName/BasicSalary/Allowance/Transportation/Date\nAli/Ahmadi/1200000/400000/350000/14010801
+
+
+Cs :
+
+firstname, ashkan\nlastname, abdolahi\nbasicsalary, 1200000\nallowance, 400000\ntransportation, 350000\ndate, 14010801
+
+
+
+              //CalculatorRequest temp = new CalculatorRequest();
+            //temp.firstName = "ashkan";
+            //temp.lastName = "abdolahi";
+            //temp.basicSalary = 1200000;
+            //temp.allowance = 400000;
+            //temp.transportation = 350000;
+            //temp.date = "14010801";
+            //id.data = JsonSerializer.Serialize<CalculatorRequest>(temp);
+            //id.overTimeCalculator = "CalcurlatorA";
+            ////string str = JsonSerializer.Serialize(id);
+            //using (var stringwriter = new StringWriter())
+            //{
+            //    var serializer = new XmlSerializer(temp.GetType());
+            //    serializer.Serialize(stringwriter, temp);
+            //    string str = stringwriter.ToString();
+            //}
+
+
+
+            <?xml version="1.0" encoding="UTF-8"?>
+<RequestBody>
+	<data>string</data>
+	<overTimeCalculator>CalcurlatorA</overTimeCalculator>
+	<xmlData>
+		<firstName>ashkan</firstName>
+		<lastName>abdolahi</lastName>
+		<basicSalary>1200000</basicSalary>
+		<allowance>400000</allowance>
+		<transportation>350000</transportation>
+		<date>14010801</date>
+	</xmlData>
+</RequestBody>
+
+
+FirstName/LastName/BasicSalary/Allowance/Transportation/Date\nAli/Ahmadi/1200000/400000/350000/14010801
+
+
+
+
+
+
+
+

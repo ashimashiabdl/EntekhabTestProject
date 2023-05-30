@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HR.OvetimePolicies", "HR.Calculator\HR.OvetimePolicies.csproj", "{4F9D8B28-130B-4999-BEC9-3EB1D3894894}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hr.WebAPI", "Hr.WebAPI\Hr.WebAPI.csproj", "{2B5AE311-D2CF-4CD4-B044-5F7E8A674D97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F9D8B28-130B-4999-BEC9-3EB1D3894894}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F9D8B28-130B-4999-BEC9-3EB1D3894894}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F9D8B28-130B-4999-BEC9-3EB1D3894894}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F9D8B28-130B-4999-BEC9-3EB1D3894894}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B5AE311-D2CF-4CD4-B044-5F7E8A674D97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B5AE311-D2CF-4CD4-B044-5F7E8A674D97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B5AE311-D2CF-4CD4-B044-5F7E8A674D97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B5AE311-D2CF-4CD4-B044-5F7E8A674D97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AC66250-03F2-4E42-BBA9-67A3070A63C9}
+	EndGlobalSection
+EndGlobal

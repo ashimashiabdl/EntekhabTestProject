@@ -1,0 +1,14 @@
+G:\MyCh\HR.Calculator\HR.Calculator\bin\Debug\net7.0\HR.OvetimePolicies.deps.json
+G:\MyCh\HR.Calculator\HR.Calculator\bin\Debug\net7.0\HR.OvetimePolicies.dll
+G:\MyCh\HR.Calculator\HR.Calculator\bin\Debug\net7.0\HR.OvetimePolicies.pdb
+G:\MyCh\HR.Calculator\HR.Calculator\obj\Debug\net7.0\HR.OvetimePolicies.csproj.AssemblyReference.cache
+G:\MyCh\HR.Calculator\HR.Calculator\obj\Debug\net7.0\HR.OvetimePolicies.GeneratedMSBuildEditorConfig.editorconfig
+G:\MyCh\HR.Calculator\HR.Calculator\obj\Debug\net7.0\HR.OvetimePolicies.AssemblyInfoInputs.cache
+G:\MyCh\HR.Calculator\HR.Calculator\obj\Debug\net7.0\HR.OvetimePolicies.AssemblyInfo.cs
+G:\MyCh\HR.Calculator\HR.Calculator\obj\Debug\net7.0\HR.OvetimePolicies.csproj.CoreCompileInputs.cache
+G:\MyCh\HR.Calculator\HR.Calculator\obj\Debug\net7.0\HR.OvetimePolicies.dll
+G:\MyCh\HR.Calculator\HR.Calculator\obj\Debug\net7.0\refint\HR.OvetimePolicies.dll
+G:\MyCh\HR.Calculator\HR.Calculator\obj\Debug\net7.0\HR.OvetimePolicies.pdb
+G:\MyCh\HR.Calculator\HR.Calculator\obj\Debug\net7.0\ref\HR.OvetimePolicies.dll
+G:\MyCh\HR.Calculator\HR.Calculator\bin\Debug\net7.0\HR.OvetimePolicies.runtimeconfig.json
+G:\MyCh\HR.Calculator\HR.Calculator\obj\Debug\net7.0\HR.OvetimePolicies.genruntimeconfig.cache
